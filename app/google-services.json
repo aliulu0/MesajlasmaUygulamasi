@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55397051913",
+    "firebase_url": "https://mesajlasmauygulamasi-6d7fe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mesajlasmauygulamasi-6d7fe",
+    "storage_bucket": "mesajlasmauygulamasi-6d7fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55397051913:android:b8b40a87c62d23688952d8",
+        "android_client_info": {
+          "package_name": "com.aliulu.mesajlasmauygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55397051913-826qg8g3trpdkvmp4n5g0d1lah70cf90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOkpB6ADAzi9P2w3W8ZhU7Jhl-Z77-jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55397051913-826qg8g3trpdkvmp4n5g0d1lah70cf90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
